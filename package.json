@@ -1,0 +1,23 @@
+{
+  "name": "fix-html-loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wyvernnot/fix-html-loader.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wyvernnot/fix-html-loader/issues"
+  },
+  "homepage": "https://github.com/wyvernnot/fix-html-loader#readme",
+  "dependencies": {
+    "html-loader": "^0.4.3",
+    "webpack": "^1.12.14"
+  }
+}
